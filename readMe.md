@@ -38,7 +38,7 @@ To ensure accurate revenue analysis, a new column titled \*\*Revenue\*\* was cre
 
 \## Sales Report 
 
-!\[pivot chart](images/pivot\_chart.png)
+!\[Pivot Chart](images/Pivot\_Chart.png)
 
 &#x20;
 
