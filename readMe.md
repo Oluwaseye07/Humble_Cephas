@@ -10,7 +10,7 @@ Before performing analysis, the dataset was cleaned and structured to ensure acc
 
 
 
-\- The \*\*Billing Amount\*\* column contained a small number of negative values, which were treated as potential anomalies due to the absence of transaction-type information (e.g., refunds or adjustments).  
+\- The \*\*Billing Amount\*\* column contained a small number of negative values, which were treated as potential anomalies due to the absence of transaction-type information (e.g., refunds or adjustments).
 
 &#x20;
 
@@ -26,17 +26,17 @@ To ensure accurate revenue analysis, a new column titled \*\*Revenue\*\* was cre
 
 &#x20;
 
-\- Diabetes generated the highest revenue, indicating it is the most financially significant medical condition for the hospital.  
+\- Diabetes generated the highest revenue, indicating it is the most financially significant medical condition for the hospital.
 
 
 
-\- The Middle-Aged group recorded the highest number of hospital visits and also contributed the highest revenue, showing this age group is the hospital’s primary patient and revenue segment.  
+\- The Middle-Aged group recorded the highest number of hospital visits and also contributed the highest revenue, showing this age group is the hospital’s primary patient and revenue segment.
 
 
 
 \# 3. Visualization
 
-\## Sales Report 
+\## Sales Report
 
 !\[Pivot Chart](images/Pivot\_Chart.png)
 
