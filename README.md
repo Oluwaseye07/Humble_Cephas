@@ -34,13 +34,9 @@ To ensure accurate revenue analysis, a new column titled \*\*Revenue\*\* was cre
 
 
 
-\# 3. Visualization
+\## 3. Visualization
 
-\## Sales Report
+\### Sales Report
 
-!\[Chart](images/Chart.png)
-
-&#x20;
-
-&#x20;
+!\[Chart](./images/Chart.png)
 
